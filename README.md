@@ -1,4 +1,7 @@
-### UBB
+<img src="./utils/ubb_logo.png" width="300"> <br><br>
+[UBB Faculty of Mathematics and Computer Science]
+
+<hr>
 
 <img src="./utils/folder_picture.svg" width="30"> 1st Semester<br>
       ⁍ [Architecture of Computer Systems]<br>
@@ -15,8 +18,8 @@
       ⁍ [Databases]<br>
       ⁍ [Logical and Functional Programming]
 
-
-
+<hr>
+@author Goian Tudor<br>
 
 
 [Architecture of Computer Systems]: https://github.com/VaruTudor/Architecture-of-Computer-Systems
@@ -28,3 +31,4 @@
 [Computer Networks]: https://github.com/VaruTudor/Computer-Networks
 [Databases]: https://github.com/VaruTudor/Databases
 [Logical and Functional Programming]: https://github.com/VaruTudor/Logical-and-Functional-Programming
+[UBB Faculty of Mathematics and Computer Science]: http://www.cs.ubbcluj.ro/
