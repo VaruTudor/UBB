@@ -18,6 +18,11 @@
       ⁍ [Databases]<br>
       ⁍ [Logical and Functional Programming]
 
+<img src="./utils/folder_picture.svg" width="30"> 4th Semester<br>
+      ⁍ [Artificial Intelligence]<br>
+      ⁍ [Database Management Systems]<br>
+      ⁍ [Web Programming]
+
 <hr>
 @author Goian Tudor<br>
 
@@ -32,3 +37,6 @@
 [Databases]: https://github.com/VaruTudor/Databases
 [Logical and Functional Programming]: https://github.com/VaruTudor/Logical-and-Functional-Programming
 [UBB Faculty of Mathematics and Computer Science]: http://www.cs.ubbcluj.ro/
+[Artificial Intelligence]: https://github.com/VaruTudor/Artificial-Intelligence
+[Database Management Systems]: https://github.com/VaruTudor/Database-Management-Systems
+[Web Programming]: https://github.com/VaruTudor/Web-Programming
