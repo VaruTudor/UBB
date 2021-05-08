@@ -1,14 +1,12 @@
 ### UBB
 
-<img src="./utils/folder_picture.svg" width="30"> 1st Semester
-
-      ⁍ [Architecture of Computer Systems]
+<img src="./utils/folder_picture.svg" width="30"> 1st Semester<br>
+      ⁍ [Architecture of Computer Systems]<br>
       ⁍ [Fundamentals of Programming]
 
-<img src="./utils/folder_picture.svg" width="30"> 2nd Semester
-
-      ⁍ [Data Structures and Algorithms]
-      ⁍ [Graph Algorithms]
+<img src="./utils/folder_picture.svg" width="30"> 2nd Semester<br>
+      ⁍ [Data Structures and Algorithms]<br>
+      ⁍ [Graph Algorithms]<br>
       ⁍ [Object Oriented Programming]
 
 
