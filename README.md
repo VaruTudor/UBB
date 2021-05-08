@@ -9,6 +9,12 @@
       ⁍ [Graph Algorithms]<br>
       ⁍ [Object Oriented Programming]
 
+<img src="./utils/folder_picture.svg" width="30"> 3rd Semester<br>
+      ⁍ [Advanced Programming Methods]<br>
+      ⁍ [Computer Networks]<br>
+      ⁍ [Databases]<br>
+      ⁍ [Logical and Functional Programming]
+
 
 
 
@@ -18,3 +24,7 @@
 [Data Structures and Algorithms]: https://github.com/VaruTudor/Data-Structures-and-Algorithms
 [Graph Algorithms]: https://github.com/VaruTudor/Graph-Algorithms
 [Object Oriented Programming]: https://github.com/VaruTudor/Object-Oriented-Programming
+[Advanced Programming Methods]: https://github.com/VaruTudor/Advanced-Programming-Methods
+[Computer Networks]: https://github.com/VaruTudor/Computer-Networks
+[Databases]: https://github.com/VaruTudor/Databases
+[Logical and Functional Programming]: https://github.com/VaruTudor/Logical-and-Functional-Programming
