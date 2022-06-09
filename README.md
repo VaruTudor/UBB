@@ -26,7 +26,8 @@ the way my code improved and also the multitude of tasks I had to do for various
       ⁍ [Advanced Programming Methods]<br>
       ⁍ [Computer Networks]<br>
       ⁍ [Databases]<br>
-      ⁍ [Logical and Functional Programming]
+      ⁍ [Logical and Functional Programming]<br>
+      ⁍ [Probability and Statistics]
 
 <img src="./utils/folder_picture.svg" width="30"> 4th Semester<br>
       ⁍ [Artificial Intelligence]<br>
@@ -63,6 +64,7 @@ the way my code improved and also the multitude of tasks I had to do for various
 [Computer Networks]: https://github.com/VaruTudor/Computer-Networks
 [Databases]: https://github.com/VaruTudor/Databases
 [Logical and Functional Programming]: https://github.com/VaruTudor/Logical-and-Functional-Programming
+[Probability and Statistics]: https://github.com/VaruTudor/Probability-And-Statistics
 [Artificial Intelligence]: https://github.com/VaruTudor/Artificial-Intelligence
 [Database Management Systems]: https://github.com/VaruTudor/Database-Management-Systems
 [Software Engineering]: https://github.com/VaruTudor/Software-Engineering
